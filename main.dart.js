@@ -74647,7 +74647,7 @@ p=A.oR(o,o,new A.bG(A.a3(255,234,96,32),t.h9),o,o,o,o,o,o,o,o,o,o,o,o,new A.bG(n
 return A.alg(A.ahq(k,n,new A.Jl(new A.dp(B.A_,A.kI(A.a([m,l,j,s,A.kI(A.a([A.dQ(o,A.akr(A.co("Place Your Order",o,o,o,A.bi(o,o,B.i,o,o,o,o,o,o,o,o,16,o,o,o,o,o,!0,o,5,o,o,o,o,o,o),o,o),new A.Zo(a),p),o,new A.cD(r,o,o,q,o,o,B.a1),50,new A.aw(0,10,0,0),o,500)],i),B.aw,B.Et,B.aH)],i),B.aw,B.bN,B.aH),o),o)))}}
 A.Zm.prototype={
 $2(a,b){var s=null,r=b.b
-return A.dQ(s,A.amA(A.cg(A.a([A.cg(s,A.bi(s,s,B.ka,s,s,s,s,s,s,s,s,r*0.045,s,s,B.aq,s,s,!0,s,s,s,s,s,s,s,s),'"Step into the world of Maharashtrian delight with our Puran Poli. Handcrafted with care and bursting with flavor,each bite is a celebration of tradition and taste. We\'re excited to share our culinary heritage with you."\n')],t.VO),s,s),s,B.fr),s,s,s,s,s,r)},
+return A.dQ(s,A.amA(A.cg(A.a([A.cg(s,A.bi(s,s,B.ka,s,s,s,s,s,s,s,s,r*0.049,s,s,B.aq,s,s,!0,s,s,s,s,s,s,s,s),'"Step into the world of Maharashtrian delight with our Puran Poli. Handcrafted with care and bursting with flavor,each bite is a celebration of tradition and taste. We\'re excited to share our culinary heritage with you."\n')],t.VO),s,s),s,B.fr),s,s,s,s,s,r)},
 $S:431}
 A.Zn.prototype={
 $2(a,b){var s=null
